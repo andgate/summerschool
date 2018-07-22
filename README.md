@@ -11,6 +11,3 @@
 
 ## Topology
 * [General Topology](https://www.youtube.com/watch?v=ivO9_O0YSSc&index=1&list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ)
-
-## Physics
-* [Modern Physics](https://www.youtube.com/watch?v=pyX8kQ-JzHI&list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8)
